@@ -301,6 +301,7 @@ namespace LatvanyossagokAplication
         {
             latvanyossagLb.Items.Clear();
             latvanyossagBetoltes();
+
         }
     }
 
